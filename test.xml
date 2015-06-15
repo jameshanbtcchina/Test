@@ -2,7 +2,7 @@
 <Module>
 <ModulePrefs title="main" />
 <Content type="html"><![CDATA[
-<scripti type="text/javascript">
+<script type="text/javascript">
 require.config({
     paths: {
         bootstrap: './vendor/bootstrap.min',
